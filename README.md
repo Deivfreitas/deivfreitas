@@ -1,48 +1,31 @@
-## 👨‍💻 Sobre mim
+# Deivison Freitas
 
-Sou estudante e hacker ético brasileiro na área de cibersegurança, com foco em pentest (teste de intrusão) e bug bounty (identificação responsável de vulnerabilidades).  
-Natural de Minas Gerais, resido na região de Sete Lagoas (MG), Brasil.
+Deivison Freitas é estudante de **Cibersegurança**, com foco em **Pentest**, **Bug Bounty** e **Desenvolvimento de ferramentas de segurança**. Atua com automação, análise de vulnerabilidades e projetos open source.
 
-Iniciei meus estudos em hacking ainda jovem, direcionando minha trajetória para práticas defensivas, éticas e legais, voltadas à segurança de sistemas, redes e aplicações. Atuo com interesse contínuo na análise de vulnerabilidades, pesquisa em segurança e fortalecimento de ambientes digitais.
+## 🧠 Sobre
+- Estudante de Cybersecurity
+- Foco em Pentest e Bug Bounty
+- Entusiasta de Linux e automação
+- Interesse em segurança ofensiva e defensiva
 
-Aos 23 anos fui diagnosticado com esquizofrenia e, atualmente, aos 32 anos, encontro-me mais estabilizado, mantendo foco constante nos estudos, na tecnologia e no desenvolvimento pessoal.
-
-Possuo perfil autodidata, investigativo e ético, com características como resiliência e persistência, que contribuem diretamente para minha evolução técnica e profissional na área de cibersegurança.
-
-## 🧰 Stack Técnica
-
-### 🔹 Sistemas Operacionais
-- Linux (Kali Linux, Ubuntu)
-- Windows
-
-### 🔹 Linguagens e Scripts
+## 🛠️ Tecnologias & Ferramentas
 - Python
+- JavaScript
+- Go
 - Bash
+- HTML & CSS
+- Linux
+- Redes e fundamentos de segurança
 
-### 🔹 Redes e Protocolos
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Conceitos de redes e troubleshooting
+## 🎯 Objetivo
+Construir projetos práticos em segurança da informação, aprimorar habilidades técnicas e contribuir com a comunidade open source.
 
-### 🔹 Segurança e Pentest
-- Testes de intrusão (Web e redes)
-- Análise de vulnerabilidades
-- Bug Bounty (metodologias e prática)
-- Reconhecimento e enumeração
-- Segurança defensiva
+## 🌍 Localização
+Sete Lagoas – MG, Brasil
 
-### 🔹 Ferramentas
-- Nmap
-- Burp Suite
-- Metasploit
-- Wireshark
-- Gobuster / Dirsearch
-- SQLmap
-- Hydra
+## 🔗 Links Oficiais
+- GitHub: https://github.com/Deivfreitas
+- Instagram: (seu link atual)
 
-### 🔹 Conceitos
-- OWASP Top 10
-- Hardening de sistemas
-- Boas práticas de segurança
-- Hacking ético e responsável
+---
+© Deivison Freitas
